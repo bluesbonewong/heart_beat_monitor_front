@@ -1,0 +1,27 @@
+$designWidth: 828;
+
+@function px2rem($px) {
+  @return $px / $designWidth + rem;
+}
+
+// variables
+$bgColor: #00bcd4;
+
+// 水平垂直居中
+.vh-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// 垂直居中
+.v-center {
+  display: flex;
+  align-items: center;
+}
+
+// 水平居中
+.h-center {
+  display: flex;
+  justify-content: center;
+}
