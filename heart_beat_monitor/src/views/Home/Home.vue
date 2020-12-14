@@ -6,7 +6,7 @@
             background-color="rgb(48, 65, 86)"
             text-color="rgb(191, 203, 217)"
             active-text-color="rgb(64, 158, 255)"
-            default-active="projectIntroduction"
+            :default-active="currentComponent"
             @select="switchMain"
         >
           <el-menu-item index="projectIntroduction">
@@ -54,12 +54,21 @@ export default {
   components: {
     HomeHeader, projectIntroduction, manageConfiguration, nodeRealTimeStatus, realTimeStatusChart, historyStatusChart
   },
+  created() {
+    let currentComponent = sessionStorage.getItem('currentComponent');
+    console.log(currentComponent)
+    if (currentComponent != null) {
+      this.currentComponent = currentComponent;
+    }
+  },
   methods: {
     switchMain(index, indexPath) {
       let curComp = 'projectIntroduction'
       if (index !== 'clientNodes') curComp = index
       else curComp = indexPath
 
+      sessionStorage.setItem('currentComponent', curComp)
+      console.log(1)
       this.currentComponent = curComp
     }
   }
