@@ -6,19 +6,20 @@
             background-color="rgb(48, 65, 86)"
             text-color="rgb(191, 203, 217)"
             active-text-color="rgb(64, 158, 255)"
-            default-active="1"
+            default-active="projectIntroduction"
+            @select="switchMain"
         >
-          <el-menu-item index="1">
+          <el-menu-item index="projectIntroduction">
             <template slot="title"><i class="el-icon-info"></i>项目介绍</template>
           </el-menu-item>
-          <el-menu-item index="2">
+          <el-menu-item index="manageConfiguration">
             <template slot="title"><i class="el-icon-s-platform"></i>管理配置</template>
           </el-menu-item>
-          <el-submenu index="3">
+          <el-submenu index="clientNodes">
             <template slot="title"><i class="el-icon-s-operation"></i>客户端结点</template>
-            <el-menu-item index="3-1">结点实时状态</el-menu-item>
-            <el-menu-item index="3-2">实时状态图</el-menu-item>
-            <el-menu-item index="3-3">历史状态图</el-menu-item>
+            <el-menu-item index="nodeRealTimeStatus">结点实时状态</el-menu-item>
+            <el-menu-item index="realTimeStatusChart">实时状态图</el-menu-item>
+            <el-menu-item index="historyStatusChart">历史状态图</el-menu-item>
           </el-submenu>
         </el-menu>
       </el-aside>
@@ -37,17 +38,30 @@
 <script>
 // @ is an alias to /src
 import HomeHeader from '@/views/Home/components/HomeHeader'
+import projectIntroduction from '@/views/projectIntroduction'
 import manageConfiguration from '@/views/manageConfiguration'
+import nodeRealTimeStatus from '@/views/ClientNodes/nodeRealTimeStatus'
+import realTimeStatusChart from '@/views/ClientNodes/realTimeStatusChart'
+import historyStatusChart from '@/views/ClientNodes/historyStatusChart'
 
 export default {
   name: 'Home',
   data() {
     return {
-      currentComponent: 'manageConfiguration'
+      currentComponent: 'projectIntroduction'
     }
   },
   components: {
-    HomeHeader, manageConfiguration
+    HomeHeader, projectIntroduction, manageConfiguration, nodeRealTimeStatus, realTimeStatusChart, historyStatusChart
+  },
+  methods: {
+    switchMain(index, indexPath) {
+      let curComp = 'projectIntroduction'
+      if (index !== 'clientNodes') curComp = index
+      else curComp = indexPath
+
+      this.currentComponent = curComp
+    }
   }
 }
 </script>
