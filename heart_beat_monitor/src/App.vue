@@ -10,5 +10,6 @@
 <style lang="scss">
 #app {
   background: #fafbfc;
+  height: 100%;
 }
 </style>

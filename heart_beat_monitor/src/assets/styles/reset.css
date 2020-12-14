@@ -24,8 +24,9 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-html {
+html, body {
     background: #fafbfc;
+    height: 100vh;
 }
 
 /* make sure to set some focus styles for accessibility */
