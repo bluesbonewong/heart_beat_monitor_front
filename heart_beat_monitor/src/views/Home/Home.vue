@@ -38,7 +38,7 @@
 <script>
 // @ is an alias to /src
 import HomeHeader from '@/views/Home/components/HomeHeader'
-import projectIntroduction from '@/views/projectIntroduction'
+import projectIntroduction from '@/views/ProjectIntroduction/projectIntroduction'
 import manageConfiguration from '@/views/manageConfiguration'
 import nodeRealTimeStatus from '@/views/ClientNodes/nodeRealTimeStatus'
 import realTimeStatusChart from '@/views/ClientNodes/realTimeStatusChart'
