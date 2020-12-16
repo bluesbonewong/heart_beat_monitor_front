@@ -24,7 +24,7 @@
         </el-menu>
       </el-aside>
       <el-container>
-        <el-header style="padding: 0; height: inherit">
+        <el-header style="padding: 0; height: inherit; z-index: 10">
           <home-header></home-header>
         </el-header>
         <el-main style="background: #f0f2f5; padding: 32px">
