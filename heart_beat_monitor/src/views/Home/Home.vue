@@ -78,6 +78,14 @@ export default {
 <style lang="scss">
 .home {
   height: 100%;
+
+  .setPadding {
+    padding: 32px
+  }
+
+  .cancelPadding {
+
+  }
 }
 
 .el-menu > .el-menu-item:hover, .el-submenu__title:hover {

@@ -1,0 +1,1098 @@
+[
+  {
+    "avgload": 0.18348681748953943,
+    "cpunum": 8,
+    "id": 137,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689922059
+  },
+  {
+    "avgload": 0.1540830557674957,
+    "cpunum": 8,
+    "id": 136,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689921067
+  },
+  {
+    "avgload": 0.2416963851996965,
+    "cpunum": 8,
+    "id": 135,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689920070
+  },
+  {
+    "avgload": 0.29261822522906356,
+    "cpunum": 8,
+    "id": 134,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689919067
+  },
+  {
+    "avgload": 0.24795045565829057,
+    "cpunum": 8,
+    "id": 133,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689918075
+  },
+  {
+    "avgload": 0.2838402241206447,
+    "cpunum": 8,
+    "id": 132,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689917076
+  },
+  {
+    "avgload": 0.2989199891936276,
+    "cpunum": 8,
+    "id": 131,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689916072
+  },
+  {
+    "avgload": 0.21036466659642983,
+    "cpunum": 8,
+    "id": 130,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689915084
+  },
+  {
+    "avgload": 0.2849115599050932,
+    "cpunum": 8,
+    "id": 129,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689914105
+  },
+  {
+    "avgload": 0.2715927598380601,
+    "cpunum": 8,
+    "id": 128,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689913060
+  },
+  {
+    "avgload": 0.4180669557875445,
+    "cpunum": 8,
+    "id": 127,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689911852
+  },
+  {
+    "avgload": 0.22455535391283188,
+    "cpunum": 8,
+    "id": 126,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689910599
+  },
+  {
+    "avgload": 0.21689629272936373,
+    "cpunum": 8,
+    "id": 125,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689909566
+  },
+  {
+    "avgload": 0.36342449314659275,
+    "cpunum": 8,
+    "id": 124,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689908590
+  },
+  {
+    "avgload": 0.19371900132540887,
+    "cpunum": 8,
+    "id": 123,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689907558
+  },
+  {
+    "avgload": 0.17481910108081566,
+    "cpunum": 8,
+    "id": 122,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689906555
+  },
+  {
+    "avgload": 0.18949103181971083,
+    "cpunum": 8,
+    "id": 121,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689905549
+  },
+  {
+    "avgload": 0.26139590245478916,
+    "cpunum": 8,
+    "id": 120,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689904552
+  },
+  {
+    "avgload": 0.22861364320594857,
+    "cpunum": 8,
+    "id": 119,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689903546
+  },
+  {
+    "avgload": 0.14615139234815855,
+    "cpunum": 8,
+    "id": 118,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689902544
+  },
+  {
+    "avgload": 0.13306962568236025,
+    "cpunum": 8,
+    "id": 117,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689901539
+  },
+  {
+    "avgload": 0.30027035352579023,
+    "cpunum": 8,
+    "id": 116,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689900536
+  },
+  {
+    "avgload": 0.35949476708528194,
+    "cpunum": 8,
+    "id": 115,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689899768
+  },
+  {
+    "avgload": 0.39312647306242726,
+    "cpunum": 8,
+    "id": 114,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689898787
+  },
+  {
+    "avgload": 0.24425087984886715,
+    "cpunum": 8,
+    "id": 113,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689897531
+  },
+  {
+    "avgload": 0.2534344158812346,
+    "cpunum": 8,
+    "id": 112,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689896514
+  },
+  {
+    "avgload": 0.36213603364335883,
+    "cpunum": 8,
+    "id": 111,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689895506
+  },
+  {
+    "avgload": 0.19244487739868976,
+    "cpunum": 8,
+    "id": 110,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689894515
+  },
+  {
+    "avgload": 0.15712207495706842,
+    "cpunum": 8,
+    "id": 109,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689893497
+  },
+  {
+    "avgload": 0.1012531315368207,
+    "cpunum": 8,
+    "id": 108,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689892495
+  },
+  {
+    "avgload": 0.1602114505454868,
+    "cpunum": 8,
+    "id": 107,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689891485
+  },
+  {
+    "avgload": 0.21182199844121197,
+    "cpunum": 8,
+    "id": 106,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689890486
+  },
+  {
+    "avgload": 0.33722365311775226,
+    "cpunum": 8,
+    "id": 105,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689889478
+  },
+  {
+    "avgload": 0.3108089652165771,
+    "cpunum": 8,
+    "id": 104,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689888475
+  },
+  {
+    "avgload": 0.24542891102690179,
+    "cpunum": 8,
+    "id": 103,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689887467
+  },
+  {
+    "avgload": 0.22705553734097705,
+    "cpunum": 8,
+    "id": 102,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689886465
+  },
+  {
+    "avgload": 0.278136450550006,
+    "cpunum": 8,
+    "id": 101,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689885463
+  },
+  {
+    "avgload": 0.1818652441955323,
+    "cpunum": 8,
+    "id": 100,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689884463
+  },
+  {
+    "avgload": 0.12254658736064827,
+    "cpunum": 8,
+    "id": 99,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689883453
+  },
+  {
+    "avgload": 0.13003134346662892,
+    "cpunum": 8,
+    "id": 98,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689882453
+  },
+  {
+    "avgload": 0.10026636902955588,
+    "cpunum": 8,
+    "id": 97,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689881450
+  },
+  {
+    "avgload": 0.08560584148960526,
+    "cpunum": 8,
+    "id": 96,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689880440
+  },
+  {
+    "avgload": 0.13918896359168775,
+    "cpunum": 8,
+    "id": 95,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689879437
+  },
+  {
+    "avgload": 0.0825281251474188,
+    "cpunum": 8,
+    "id": 94,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689878431
+  },
+  {
+    "avgload": 0.08102298774996675,
+    "cpunum": 8,
+    "id": 93,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689877428
+  },
+  {
+    "avgload": 0.07425344317797444,
+    "cpunum": 8,
+    "id": 92,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689876424
+  },
+  {
+    "avgload": 0.09656732369815035,
+    "cpunum": 8,
+    "id": 91,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689875420
+  },
+  {
+    "avgload": 0.10015301544335087,
+    "cpunum": 8,
+    "id": 90,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689874416
+  },
+  {
+    "avgload": 0.10045423709551438,
+    "cpunum": 8,
+    "id": 89,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689873416
+  },
+  {
+    "avgload": 0.09862257659788709,
+    "cpunum": 8,
+    "id": 88,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689872410
+  },
+  {
+    "avgload": 0.09777370933707141,
+    "cpunum": 8,
+    "id": 87,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689871412
+  },
+  {
+    "avgload": 0.10755738345549914,
+    "cpunum": 8,
+    "id": 86,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689870407
+  },
+  {
+    "avgload": 0.12516126270903438,
+    "cpunum": 8,
+    "id": 85,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689869405
+  },
+  {
+    "avgload": 0.10914810022153931,
+    "cpunum": 8,
+    "id": 84,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689868400
+  },
+  {
+    "avgload": 0.1103874235236838,
+    "cpunum": 8,
+    "id": 83,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689867394
+  },
+  {
+    "avgload": 0.09532745576142654,
+    "cpunum": 8,
+    "id": 82,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689866398
+  },
+  {
+    "avgload": 0.08475017577770749,
+    "cpunum": 8,
+    "id": 81,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689865388
+  },
+  {
+    "avgload": 0.08685180929871204,
+    "cpunum": 8,
+    "id": 80,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689864373
+  },
+  {
+    "avgload": 0.15969333344329384,
+    "cpunum": 8,
+    "id": 79,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689863371
+  },
+  {
+    "avgload": 0.08420996687509842,
+    "cpunum": 8,
+    "id": 78,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689862361
+  },
+  {
+    "avgload": 0.08162987815786449,
+    "cpunum": 8,
+    "id": 77,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689861354
+  },
+  {
+    "avgload": 0.09007051805988396,
+    "cpunum": 8,
+    "id": 76,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689860352
+  },
+  {
+    "avgload": 0.12383692171591054,
+    "cpunum": 8,
+    "id": 75,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689859350
+  },
+  {
+    "avgload": 0.19545869410366923,
+    "cpunum": 8,
+    "id": 74,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689858345
+  },
+  {
+    "avgload": 0.15591668029883854,
+    "cpunum": 8,
+    "id": 73,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689857346
+  },
+  {
+    "avgload": 0.06548791548781085,
+    "cpunum": 8,
+    "id": 72,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689856338
+  },
+  {
+    "avgload": 0.10871743457662975,
+    "cpunum": 8,
+    "id": 71,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689855335
+  },
+  {
+    "avgload": 0.07931282378419102,
+    "cpunum": 8,
+    "id": 70,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689854309
+  },
+  {
+    "avgload": 0.06409506278449639,
+    "cpunum": 8,
+    "id": 69,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689853302
+  },
+  {
+    "avgload": 0.08514591222723122,
+    "cpunum": 8,
+    "id": 68,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689852300
+  },
+  {
+    "avgload": 0.0508888102152606,
+    "cpunum": 8,
+    "id": 67,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689851296
+  },
+  {
+    "avgload": 0.19007055407547527,
+    "cpunum": 8,
+    "id": 66,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689850294
+  },
+  {
+    "avgload": 0.17001701604996067,
+    "cpunum": 8,
+    "id": 65,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689849294
+  },
+  {
+    "avgload": 0.13567504272004993,
+    "cpunum": 8,
+    "id": 64,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689848300
+  },
+  {
+    "avgload": 0.24549623381499763,
+    "cpunum": 8,
+    "id": 63,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689847290
+  },
+  {
+    "avgload": 0.19796273079439353,
+    "cpunum": 8,
+    "id": 62,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689846288
+  },
+  {
+    "avgload": 0.16667336138319633,
+    "cpunum": 8,
+    "id": 61,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689845283
+  },
+  {
+    "avgload": 0.15295780559094652,
+    "cpunum": 8,
+    "id": 60,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689844287
+  },
+  {
+    "avgload": 0.11966202418307637,
+    "cpunum": 8,
+    "id": 59,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689843287
+  },
+  {
+    "avgload": 0.10868738564536662,
+    "cpunum": 8,
+    "id": 58,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689842289
+  },
+  {
+    "avgload": 0.15908140794327685,
+    "cpunum": 8,
+    "id": 57,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689841272
+  },
+  {
+    "avgload": 0.23766417851005772,
+    "cpunum": 8,
+    "id": 56,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689840268
+  },
+  {
+    "avgload": 0.3105617798769499,
+    "cpunum": 8,
+    "id": 55,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689839258
+  },
+  {
+    "avgload": 0.1266464267521411,
+    "cpunum": 8,
+    "id": 54,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689838263
+  },
+  {
+    "avgload": 0.13480493557181827,
+    "cpunum": 8,
+    "id": 53,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689837250
+  },
+  {
+    "avgload": 0.17640067827289052,
+    "cpunum": 8,
+    "id": 52,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689836243
+  },
+  {
+    "avgload": 0.09219216586050315,
+    "cpunum": 8,
+    "id": 51,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689835240
+  },
+  {
+    "avgload": 0.08893445012630952,
+    "cpunum": 8,
+    "id": 50,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689834234
+  },
+  {
+    "avgload": 0.1269604335323583,
+    "cpunum": 8,
+    "id": 49,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689833226
+  },
+  {
+    "avgload": 0.12702625934942402,
+    "cpunum": 8,
+    "id": 48,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689832229
+  },
+  {
+    "avgload": 0.09600245447813138,
+    "cpunum": 8,
+    "id": 47,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689831232
+  },
+  {
+    "avgload": 0.10778654735512049,
+    "cpunum": 8,
+    "id": 46,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689830217
+  },
+  {
+    "avgload": 0.08857106610980237,
+    "cpunum": 8,
+    "id": 45,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689829219
+  },
+  {
+    "avgload": 0.1223234810115218,
+    "cpunum": 8,
+    "id": 44,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689828215
+  },
+  {
+    "avgload": 0.06309378585253844,
+    "cpunum": 8,
+    "id": 43,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689827202
+  },
+  {
+    "avgload": 0.138441630585866,
+    "cpunum": 8,
+    "id": 42,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689826200
+  },
+  {
+    "avgload": 0.10160867264469964,
+    "cpunum": 8,
+    "id": 41,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689825196
+  },
+  {
+    "avgload": 0.09792707060014239,
+    "cpunum": 8,
+    "id": 40,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689824184
+  },
+  {
+    "avgload": 0.07853708445689478,
+    "cpunum": 8,
+    "id": 39,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689823185
+  },
+  {
+    "avgload": 0.18082574263061482,
+    "cpunum": 8,
+    "id": 38,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689822185
+  },
+  {
+    "avgload": 0.16279925399584136,
+    "cpunum": 8,
+    "id": 37,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689821190
+  },
+  {
+    "avgload": 0.3413181403749055,
+    "cpunum": 8,
+    "id": 36,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689820168
+  },
+  {
+    "avgload": 0.2017753376671898,
+    "cpunum": 8,
+    "id": 35,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689819166
+  },
+  {
+    "avgload": 0.15880936197376172,
+    "cpunum": 8,
+    "id": 34,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689818162
+  },
+  {
+    "avgload": 0.178151083535517,
+    "cpunum": 8,
+    "id": 33,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689817170
+  },
+  {
+    "avgload": 0.13886828980687316,
+    "cpunum": 8,
+    "id": 32,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689816158
+  },
+  {
+    "avgload": 0.10741300260671827,
+    "cpunum": 8,
+    "id": 31,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689815154
+  },
+  {
+    "avgload": 0.19447994788522227,
+    "cpunum": 8,
+    "id": 30,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689814146
+  },
+  {
+    "avgload": 0.14915572186100912,
+    "cpunum": 8,
+    "id": 29,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689813153
+  },
+  {
+    "avgload": 0.12049260085524605,
+    "cpunum": 8,
+    "id": 28,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689812139
+  },
+  {
+    "avgload": 0.17153532871887756,
+    "cpunum": 8,
+    "id": 27,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689811132
+  },
+  {
+    "avgload": 0.13997240176086045,
+    "cpunum": 8,
+    "id": 26,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689810136
+  },
+  {
+    "avgload": 0.13552772098117027,
+    "cpunum": 8,
+    "id": 25,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689809116
+  },
+  {
+    "avgload": 0.0863560337144128,
+    "cpunum": 8,
+    "id": 24,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689808110
+  },
+  {
+    "avgload": 0.1290108988503761,
+    "cpunum": 8,
+    "id": 23,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689807114
+  },
+  {
+    "avgload": 0.11315173847047522,
+    "cpunum": 8,
+    "id": 22,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689806107
+  },
+  {
+    "avgload": 0.1758076226054499,
+    "cpunum": 8,
+    "id": 21,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689805099
+  },
+  {
+    "avgload": 0.0765907613114194,
+    "cpunum": 8,
+    "id": 20,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689804092
+  },
+  {
+    "avgload": 0.07425444767719169,
+    "cpunum": 8,
+    "id": 19,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689803085
+  },
+  {
+    "avgload": 0.1118038611612684,
+    "cpunum": 8,
+    "id": 18,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689802080
+  },
+  {
+    "avgload": 0.2555800232616354,
+    "cpunum": 8,
+    "id": 17,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689801079
+  },
+  {
+    "avgload": 0.08750174086108553,
+    "cpunum": 8,
+    "id": 16,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689800068
+  },
+  {
+    "avgload": 0.10974499233960133,
+    "cpunum": 8,
+    "id": 15,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689799066
+  },
+  {
+    "avgload": 0.06812573341017503,
+    "cpunum": 8,
+    "id": 14,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689798049
+  },
+  {
+    "avgload": 0.09358462304796256,
+    "cpunum": 8,
+    "id": 13,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689797041
+  },
+  {
+    "avgload": 0.09910048217168231,
+    "cpunum": 8,
+    "id": 12,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689796039
+  },
+  {
+    "avgload": 0.16916146871166438,
+    "cpunum": 8,
+    "id": 11,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689795041
+  },
+  {
+    "avgload": 0.0669049393099388,
+    "cpunum": 8,
+    "id": 10,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689794033
+  },
+  {
+    "avgload": 0.24559097590791468,
+    "cpunum": 8,
+    "id": 9,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689793033
+  },
+  {
+    "avgload": 0.13450735151337112,
+    "cpunum": 8,
+    "id": 8,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689792035
+  },
+  {
+    "avgload": 0.07978745598202286,
+    "cpunum": 8,
+    "id": 7,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689791027
+  },
+  {
+    "avgload": 0.2370450371878574,
+    "cpunum": 8,
+    "id": 6,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689790032
+  },
+  {
+    "avgload": 0.09150403646775473,
+    "cpunum": 8,
+    "id": 5,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689789030
+  },
+  {
+    "avgload": 0.09617153721748695,
+    "cpunum": 8,
+    "id": 4,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689788016
+  },
+  {
+    "avgload": 0.24976014569971527,
+    "cpunum": 8,
+    "id": 3,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689787016
+  },
+  {
+    "avgload": 0.0,
+    "cpunum": 8,
+    "id": 2,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689786012
+  },
+  {
+    "avgload": 0.0,
+    "cpunum": 8,
+    "id": 1,
+    "name": "LF0C85OX",
+    "os": "amd64Windows 1010.0",
+    "timestamp": 1607689785690
+  }
+]
